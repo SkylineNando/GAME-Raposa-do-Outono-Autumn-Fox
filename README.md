@@ -89,16 +89,6 @@ Como o jogo utiliza exclusivamente tecnologias nativas da Web, não é necessár
 
 ---
 
-## 🌐 Publicando no GitHub Pages
-
-1. Faça o **push** do código para seu repositório no GitHub.
-2. Acesse **Settings** > **Pages** no repositório.
-3. Em **Source**, selecione a branch `main` (ou `master`) e a pasta `/ (root)`.
-4. Salve. Seu jogo estará disponível em:
-   `https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/`
-
----
-
 ## 📝 Licença
 
 Este projeto está sob a licença [MIT](LICENSE) — sinta-se à vontade para utilizar, estudar e modificar o código.
