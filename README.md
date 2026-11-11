@@ -79,7 +79,7 @@ Como o jogo utiliza exclusivamente tecnologias nativas da Web, não é necessár
 ### Execução Direta
 1. Clone este repositório:
    ```bash
-   git clone[ https://github.com/SEU-USUARIO/raposa-do-outono.git](https://github.com/SkylineNando/GAME-HTML5-Canvas-CSS3-e-JavaScript-puro-Vanilla-JS-/tree/main)
+   git clone https://github.com/SkylineNando/GAME-HTML5-Canvas-CSS3-e-JavaScript-puro-Vanilla-JS-/tree/main
    ```
 2. Abra a pasta do projeto e execute o arquivo HTML diretamente em qualquer navegador moderno.
 
