@@ -89,6 +89,10 @@ Como o jogo utiliza exclusivamente tecnologias nativas da Web, não é necessár
 
 ---
 
+🎮 Demonstração do Projeto
+
+🌐 CLIQUE AQUI PARA JOGAR E VISUALIZAR A DEMONSTRAÇÃO https://skylinenando.github.io/GAME-Raposa-do-Outono-Autumn-Fox
+
 ## 📝 Licença
 
 Este projeto está sob a licença [MIT](LICENSE) — sinta-se à vontade para utilizar, estudar e modificar o código.
